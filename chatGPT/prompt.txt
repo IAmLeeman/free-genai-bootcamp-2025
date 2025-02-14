@@ -5,3 +5,6 @@ however do not directly translate the sentence, instead you should explain the s
 give hints and clues to the user to help them understand the sentence and translate the sentence
 
 Input sentence: My cat is a nuisance, all he does is sleep and eat.
+
+### Gives a very vague overview of the sentence, but ultimately would not allow a beginner student enough guidance to work out
+### the translation.
